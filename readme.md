@@ -5,7 +5,7 @@
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Create a new local Git repository |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Copy a remote repository to your local machine |
+| `git clone http://github.com/[username]/[repository-name].git` | Copy a remote repository to your local machine |
 
 ## Global Git Configuration
 
